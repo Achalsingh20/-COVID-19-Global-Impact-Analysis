@@ -32,5 +32,3 @@ This Tableau dashboard provides a data-driven approach to understanding COVID-19
 ## License
 This project is for educational and research purposes only.
 
----
-*Created by Aunsh Arekar*
